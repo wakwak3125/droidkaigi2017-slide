@@ -15,15 +15,15 @@ autoscale: true
 - Wantedlyという会社でWantedly Peopleの開発をしています。
 - 元おねだん以上な家具屋さんで販売員をしていました。
 
-![left](Profileimage.jpg)
+![left](resources/Profileimage.jpg)
 
 --- 
 
-![original](150mMAU.png)
+![original](resources/150mMAU.png)
 
 ---
 
-![loop autoplay](wp_introduction.mov)
+![loop autoplay](resources/wp_introduction.mov)
 
 ---
 
@@ -213,8 +213,8 @@ autoscale: true
 
 # [fit]**Wercker**か**Bitrise**がオススメ
 
-![left](wercker.png)
-![right](bitrise.png)
+![left](resources/wercker.png)
+![right](resources/bitrise.png)
     
 ---
 
@@ -228,7 +228,7 @@ autoscale: true
     1. サポートがフランクな気がする。
     1. だいたい無料
 
-![right fit](wercker.png)
+![right fit](resources/wercker.png)
 
 ---
 
@@ -241,7 +241,7 @@ autoscale: true
     1. しっかり使うなら有料だけど、制限付きの無料プランもある。
     1. **面倒な署名ファイルの管理を手助けしてくれる**
 
-![right fit](bitrise.png)
+![right fit](resources/bitrise.png)
 
 --- 
 
@@ -267,14 +267,14 @@ autoscale: true
 ---
 ## 雑に比較してみました
 
-![inline](compare.png)
+![inline](resources/compare.png)
 
 ---
 
 ## fastlaneといえばfablic
 ## fablicといえば
 
----
+--- 
 
 > Fabric is Joining Google
 -- January 18, 2017
