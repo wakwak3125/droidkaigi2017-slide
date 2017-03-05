@@ -285,7 +285,7 @@ autoscale: true
 
 ---
 
-> fastlane is joining Google
+> fastlane is Joining Google
 -- January 23, 2017
 
 ---
