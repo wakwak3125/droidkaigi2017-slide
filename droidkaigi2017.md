@@ -16,24 +16,6 @@ autoscale: true
 
 --- 
 
-![fit original](resources/150mMAU.png)
-
----
-
-![fit loop autoplay](resources/wp_introduction.mov)
-
----
-
-![fit loop autoplay](https://www.youtube.com/watch?v=CfAZVRsVi5Y)
-
-^みれなかったら飛ばす
-
----
-
-## ブースもあるから来てね！<BR>ノベルティもあるよ！
-
---- 
-
 # Agenda
 
 ---
@@ -903,9 +885,3 @@ release:
 ---
 
 ## [fit]以上です！<BR>ご清聴ありがとうございました！
-
----
-
-## [fit]オフィスアワーと<BR>Wantedlyブースでまってます！
-
----
